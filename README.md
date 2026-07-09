@@ -1,2 +1,3 @@
 # Demo
-For learning purpose
+For learning purpose.
+Today i learn git and github.
